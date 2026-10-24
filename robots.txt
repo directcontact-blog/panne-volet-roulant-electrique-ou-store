@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://directcontact-blog.github.io/panne-volet-roulant-electrique-ou-store/sitemap.xml
